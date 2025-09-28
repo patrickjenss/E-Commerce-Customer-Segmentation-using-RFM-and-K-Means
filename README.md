@@ -33,6 +33,4 @@ This project analyzes **34,500 e-commerce transaction records** with the goal of
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Scikit-learn (K-Means Clustering)  
-
-## 📂 Project Structure  
+- Scikit-learn (K-Means Clustering) 
